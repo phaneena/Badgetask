@@ -1,0 +1,10 @@
+{
+    "users":[],
+    "products":[
+        {
+            "id":1,
+            "name":"women shoe"
+        }
+        
+    ]
+}
